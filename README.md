@@ -7,6 +7,7 @@
 [![Play Online](https://img.shields.io/badge/PLAY-ONLINE-brightgreen?style=for-the-badge)](https://ваш-сайт.ru) <!-- Добавьте реальную ссылку -->
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 
+
 ## ✨ Особенности
 
 - 🎨 Интерактивный интерфейс с анимированными состояниями
